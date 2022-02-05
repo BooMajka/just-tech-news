@@ -12,3 +12,4 @@ An app where user posts an article from another source and other users vote or c
 - Node.js
 - Express.js
 - MySQL
+- Handlebars
